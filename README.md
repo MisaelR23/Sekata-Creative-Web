@@ -1,2 +1,0 @@
-# Sekata-Creative-Web
-web
